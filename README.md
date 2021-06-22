@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m @brittanyharrison
+- 👋 Hi, I’m @brittanyharrison
 - 👀 I’m interested in DevOps and Natural Language Processes
 - 🌱 I’m currently learning DevOps on my training with Sparta Global
 - 💞️ I’m looking to collaborate on any interesting projects
